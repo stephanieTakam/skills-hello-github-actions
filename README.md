@@ -21,6 +21,11 @@ Merge your changes so the action will be a part of the `main` branch.
 1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
 
 2. NO NO I'M IN THE NEXT STEPS NOW
+3. NO NO I'M IN THE NEXT STEPS NOW
+4. NO NO I'M IN THE NEXT STEPS NOW
+5. NO NO I'M IN THE NEXT STEPS NOW
+6. NO NO I'M IN THE NEXT STEPS NOW
+7. NO NO I'M IN THE NEXT STEPS NOW
 
 <footer>
 
