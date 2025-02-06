@@ -29,6 +29,11 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore)
 
 2. NO NO I'M IN THE NEXT STEPS NOW
+3. NO NO I'M IN THE NEXT STEPS NOW
+4. NO NO I'M IN THE NEXT STEPS NOW
+5. NO NO I'M IN THE NEXT STEPS NOW
+6. NO NO I'M IN THE NEXT STEPS NOW
+7. NO NO I'M IN THE NEXT STEPS NOW
 
 <footer>
 
